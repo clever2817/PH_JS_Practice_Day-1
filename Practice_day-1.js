@@ -20,3 +20,12 @@ let banglaMarks = 99.50;
 let avgMarks = (mathMarks + biologyMarks + chemistryMarks+ physicsMarks + banglaMarks) / 5;
 
 console.log(avgMarks.toFixed(2));
+
+
+// Problem 3
+
+let num = 119;
+
+let remainderOfTheNumber = 119 % 5;
+
+console.log(remainderOfTheNumber);
